@@ -4,7 +4,7 @@ Please copy the code  below and paste it into Jupyter notebook
 
 
 
-
+```
 def start():
     print("Hello user this is a study guide for you that I made :D")
     print("if you want the study guide type 1")
@@ -111,3 +111,4 @@ def section_three():
     print("you have completed section 2 moving you to section 3 titled If/Elf/Else statments")
     print("moving you to question six")
     Question_six()
+```
