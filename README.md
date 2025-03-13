@@ -28,10 +28,10 @@ def Study_guide():
 def Question_one():
     print("question one")
     print("Write code to create a variable called name and set it to your own name. Then, print the value of name.")
-    print('#1: Name = brexton print(Name)')
-    print('#2 Name = brexton print("name")')
+    print('#1: Name = user print(Name)')
+    print('#2 Name = user print("name")')
     print("#3  I want chicken >:(")
-    print("#4  Nane == brexton Print name")
+    print("#4  Nane == user Print name")
    
     user_input = input("type here >>>")
     if user_input == "1":
